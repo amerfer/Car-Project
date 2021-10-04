@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu/Starting Menu.unity
+    guid: 12615962a56f65d4eb5b6f07fc4184e2
+  - enabled: 1
+    path: Assets/Scenes/Menu/Catagory.unity
+    guid: f47fe6c96ff92274ebc679c6e2c61281
+  - enabled: 1
+    path: Assets/Scenes/Menu/ManeuversCatagory.unity
+    guid: 2522e52cd694baa48956c240ffa61d4e
+  - enabled: 1
+    path: Assets/Scenes/Final Scenes/Reverse Parking.unity
+    guid: e41cf119240c5c34391fdffdfccc57cb
+  - enabled: 1
+    path: Assets/Scenes/Final Scenes/Forward Parking.unity
+    guid: 8cfcb73861eeb934284544d6967d3423
+  - enabled: 1
+    path: Assets/Scenes/Menu/CoursesCatagory.unity
+    guid: e9b8da4a2eda6d642bd06a732c577de3
+  - enabled: 1
+    path: Assets/Scenes/Final Scenes/Course1.unity
+    guid: 35143331565ebf644b577307728ca105
+  - enabled: 1
+    path: Assets/Scenes/Menu/Finish.unity
+    guid: f4ab987e7a1985b42a8913120e0215b4
+  m_configObjects: {}
